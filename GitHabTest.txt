@@ -1,0 +1,17 @@
+Class Program
+{
+
+  static void Main()
+ {
+    ConsoleWriteLine("Hello  World_1")
+    ConsoleWriteLine("Hello  Pasha_1")
+    ConsoleWriteLine("Hello  Sveta_1")
+    ConsoleWriteLine("Hello  Zafad_1")
+    ConsoleWriteLine("Hello Friend_1")
+    ConsoleWriteLine("Hello  12345_1")
+    ConsoleWriteLine("Hello   GitHab")
+  
+    //Delay
+    ConsoleReadKey
+ }
+}
